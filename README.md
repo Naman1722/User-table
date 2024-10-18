@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # User-table
 # React + TypeScript + Vite
 
