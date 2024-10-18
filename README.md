@@ -47,5 +47,4 @@ export default tseslint.config({
     ...react.configs['jsx-runtime'].rules,
   },
 })
-```
->>>>>>> 4f76394 (first commit)
+
